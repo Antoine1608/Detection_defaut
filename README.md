@@ -24,7 +24,7 @@ git clone git clone https://github.com/Antoine1608/Defect_detection.git
 
 * Lancer le notebook "\app\inference-camera-control.ipynb"
 
-# Quelques images du projet
+**Quelques images du projet :**
 
 ![Photos du contrôle caméra](photos/photos_ctrl_cam.png)
 ![Matrice de confusion](photos/confusion_matrix.png)
