@@ -12,7 +12,7 @@ En récupérant les images issues du contrôle caméra et en entraînant un algo
 
 🏄‍♂️ **Mode d'emploi pour prédire des images inconnues :**
 
-*  cloner ce dépôt : 
+*  Cloner ce dépôt : 
 ```bash
 git clone git clone https://github.com/Antoine1608/Defect_detection.git
 ```
