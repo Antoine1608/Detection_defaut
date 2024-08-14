@@ -8,7 +8,7 @@ Quand un défaut passe au travers, l'entreprise doit organiser des tris sur le s
 
 Ces tris sont coûteux en temps et en argent. 
 
-En récupérant les images issus du contrôle caméra et en entraînant un algorithme d'IA dessus il est pourtant simple de repérer les défauts après coup et s'affranchir de tris inutiles. C'est ce que j'ai fait ici
+En récupérant les images issues du contrôle caméra et en entraînant un algorithme d'IA dessus il est pourtant simple de repérer les défauts après coup et s'affranchir ainsi de tris inutiles. C'est ce que j'ai fait ici.
 
 🏄‍♂️ **Mode d'emploi pour prédire des images inconnues :**
 
@@ -26,5 +26,5 @@ git clone git clone https://github.com/Antoine1608/Defect_detection.git
 
 # Quelques images du projet
 
-![Photos du contrôle caméra]("photos/photos_ctrl_cam.png")
-![Matrice de confusion]("photos/confusion_matrix.png")# Detection_defaut
+![Photos du contrôle caméra]("https://github.com/Antoine1608/Detection_defaut/blob/main/photos/photos_ctrl_cam.png")
+![Matrice de confusion]("https://github.com/Antoine1608/Detection_defaut/blob/main/photos/confusion_matrix.png")
