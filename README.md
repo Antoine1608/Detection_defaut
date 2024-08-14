@@ -26,5 +26,5 @@ git clone git clone https://github.com/Antoine1608/Defect_detection.git
 
 # Quelques images du projet
 
-![Photos du contrôle caméra]("photos/photos_ctrl_cam.png")
-![Matrice de confusion]("photos/confusion_matrix.png")
+![Photos du contrôle caméra](photos/photos_ctrl_cam.png)
+![Matrice de confusion](photos/confusion_matrix.png)
