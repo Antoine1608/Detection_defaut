@@ -28,8 +28,6 @@ git clone git clone https://github.com/Antoine1608/Detection_defaut.git
 
 * Lancer le [NOTEBOOK](app/inference-camera-control.ipynb)
 
-![Matrice de confusion](photos/confusion_matrix.png)
-
 👉 **Entraîner un modèle :**
 
 L'IA va s'entraîner sur des photos de pièces défectueuses et de bonnes pièces – pas besoin de définir un seuil ou une zone – il est recommandé mais pas nécessaire de limiter le bruit (différents arrière-plans...) pour que l'algorithme apprenne plus vite et avec moins d'images. 
