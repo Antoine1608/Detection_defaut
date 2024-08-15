@@ -26,7 +26,7 @@ git clone git clone https://github.com/Antoine1608/Detection_defaut.git
 
 * Mettre le dossier des images à traiter dans le dossier data
 
-* Lancer le notebook "\app\inference-camera-control.ipynb"
+* Lancer le [NOTEBOOK](app\inference-camera-control.ipynb)
 
 ![Matrice de confusion](photos/confusion_matrix.png)
 
@@ -38,6 +38,6 @@ Exemple : double adhésifs - Le contrôle caméra ne peut pas faire la différen
 
 ![Photos double tape passées au travers du contrôle caméra](photos/photos_ctrl_cam_3.png)
 
-Le notebook d'entraînement se trouve ici : [HERE](\app\train-camera-control.ipynb)
+Le notebook d'entraînement se trouve [ICI](app\train-camera-control.ipynb)
 
 
